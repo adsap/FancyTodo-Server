@@ -1,0 +1,9 @@
+[
+  {
+    "id"  : 1,
+    "description" : "Learn how to create RESTful API with Express and Sequelize",
+    "title" : "Learn REST API",
+    "status"  : "on going",
+    "due_date" : "2021-04-13"
+  }
+]
